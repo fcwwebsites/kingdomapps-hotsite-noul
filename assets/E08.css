@@ -117,3 +117,4 @@ body{background:var(--bg)}
 .e8-tag{flex:1 1 280px;max-width:360px}
 @media (min-width:1000px){.e8-tag{flex:0 1 calc((100% - 44px)/3);max-width:none}}
 .e8-cta .btn-ifood{background:#fff;color:var(--brand-ink);border-color:#fff}
+@media (min-width:960px){.e8-nav-r{padding-right:150px!important}.e8-nav ul{gap:22px}}
